@@ -3,6 +3,8 @@
 Projeto desenvolvido como parte do **Challenge Amigo Secreto**, idealizado pela **Apple**, com implementação da**Alura** e **Oracle Next Education (ONE)**.  
 A aplicação permite criar uma lista de participantes e realizar um **sorteio aleatório** para definir o *amigo secreto*.
 
+![Página Inicial](./assets/pagina-inicial.png)
+
 ---
 
 ## ✨ Funcionalidades
@@ -22,6 +24,12 @@ A aplicação permite criar uma lista de participantes e realizar um **sorteio a
 
 - **HTML5**, **CSS3** e **JavaScript** puro  
 - Ferramentas de organização: **Trello** (fornecido pela plataforma)
+
+---
+
+## 🌐 Acesse o Projeto
+
+Para visualizar a aplicação online, **[clique aqui](https://laiscoutinho.github.io/secret-friend/)**.
 
 ---
 
@@ -59,12 +67,6 @@ secret-friend/
    ├─ amigo-secreto.png
    └─ play_circle_outline.png
 ```
-
----
-
-## 📜 Licença
-
-Este projeto está sob a licença [MIT](LICENSE).
 
 ---
 
